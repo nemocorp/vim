@@ -94,4 +94,5 @@ syntax on
 map <F2> :tabe $NOTES_DIR/<cfile>.rst <return>
 map <F11> :tabp<return>
 map <F12> :tabn<return>
+" VCsh
 
